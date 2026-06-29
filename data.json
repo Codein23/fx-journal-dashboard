@@ -1,0 +1,119 @@
+{
+  "generated_at": "2026-06-29T10:03:06.830686Z",
+  "trade_count": 1,
+  "trades": [
+    {
+      "date": "2026-01-08",
+      "pl": -100.0,
+      "win": false,
+      "be": false,
+      "dow": "Thu",
+      "pair": "EURUSD",
+      "direction": "SHORT",
+      "session": "London",
+      "entry_window": "1-2am",
+      "model": "Model 2",
+      "followed": true,
+      "pos_tags": [
+        "well-managed",
+        "perfect-entry"
+      ],
+      "neg_tags": []
+    }
+  ],
+  "stats": {
+    "total_pl": -100.0,
+    "win_rate": 0.0,
+    "win_count": 0,
+    "loss_count": 1,
+    "be_count": 0,
+    "avg_pl_day": -100.0,
+    "avg_pl_month": -100.0,
+    "best_day": -100.0,
+    "worst_day": -100.0,
+    "max_drawdown": -100.0,
+    "biggest_winner": -100.0,
+    "biggest_loser": -100.0,
+    "recovery_factor": -1.0,
+    "avg_win": 0.0,
+    "avg_loss": -100.0,
+    "risk_reward": 0.0,
+    "consistency": 0.0,
+    "plan_adherence": 100.0,
+    "followed_pl": -100.0,
+    "followed_win_rate": 0.0
+  },
+  "charts": {
+    "dow": [
+      {
+        "label": "Sun",
+        "value": 0.0
+      },
+      {
+        "label": "Mon",
+        "value": 0.0
+      },
+      {
+        "label": "Tue",
+        "value": 0.0
+      },
+      {
+        "label": "Wed",
+        "value": 0.0
+      },
+      {
+        "label": "Thu",
+        "value": -100.0
+      },
+      {
+        "label": "Fri",
+        "value": 0.0
+      },
+      {
+        "label": "Sat",
+        "value": 0.0
+      }
+    ],
+    "entry_window": [
+      {
+        "label": "1-2am",
+        "value": -100.0
+      }
+    ],
+    "pairs": [
+      {
+        "label": "EURUSD",
+        "value": -100.0
+      }
+    ],
+    "pos_tags": [
+      {
+        "label": "well-managed",
+        "value": -100.0
+      },
+      {
+        "label": "perfect-entry",
+        "value": -100.0
+      }
+    ],
+    "neg_tags": [],
+    "equity": [
+      {
+        "date": "2026-01-08",
+        "equity": -100.0
+      }
+    ],
+    "drawdown": [
+      {
+        "date": "2026-01-08",
+        "drawdown": -100.0
+      }
+    ],
+    "daily": [
+      {
+        "date": "2026-01-08",
+        "value": -100.0
+      }
+    ]
+  }
+}
